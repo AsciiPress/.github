@@ -1,4 +1,4 @@
-The AsciiPress Community is a global community of DevOps and Java practitioners who collaborate to share knowledge on solving the challenges of integrating Java into every phase of the software development lifecycle, from build-time to runtime.
+The AsciiPress Community is a global community of Content Marketers & SEO practitioners who collaborate to share knowledge on solving the challenges of perfecting SEO in every phase of the content development lifecycle, from writing to publishing.
 
 ### We thrive on diversity
 
