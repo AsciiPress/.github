@@ -1,6 +1,6 @@
 # Hi, fellow Content Marketers & SEO lovers 👋
 
-![ASCII art infographic of the annual growth of a bonsai as a ink drawing ](https://user-images.githubusercontent.com/76883/210928316-d0231df0-1f2a-4459-9fa7-636646a4e201.png)
+![a steaming red bowl of soup, ascii art, ones and zeros only, white background ](https://user-images.githubusercontent.com/76883/210928622-54ba3681-3f18-410b-9312-6a32fa99c533.png)
 
 
 
