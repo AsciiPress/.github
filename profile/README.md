@@ -1,6 +1,6 @@
 # Hi, fellow Content Marketers & SEO lovers 👋
 
-![image](https://user-images.githubusercontent.com/76883/210927576-ef3e5eef-ceec-4dbb-91af-f02fa54dfebc.png)
+![ASCII art infographic of the annual growth of a bonsai as a ink drawing ](https://user-images.githubusercontent.com/76883/210928316-d0231df0-1f2a-4459-9fa7-636646a4e201.png)
 
 
 
