@@ -6,8 +6,8 @@
  -->
 **We’re extremely excited that you landed on our GitHub page!**
 
-🧑‍💻 Learn about our code of conduct: https://github.com/AsciiPress/.github/blob/main/CODE_OF_CONDUCT.md  
-📜 Refer to our [Contributor License Agreement](https://github.com/AsciiPress/.github/blob/main/CLA.md) 
+🧑‍💻 Learn about our code of conduct: https://github.com/AsciiPress/.github/blob/master/CODE_OF_CONDUCT.md  
+📜 Refer to our [Contributor License Agreement](https://github.com/AsciiPress/.github/blob/master/CLA.md) 
 
 
 
