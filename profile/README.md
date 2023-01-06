@@ -1,5 +1,8 @@
 # Hi, fellow Content Marketers & SEO lovers 👋
 
+![image](https://user-images.githubusercontent.com/76883/210927576-ef3e5eef-ceec-4dbb-91af-f02fa54dfebc.png)
+
+
 
 
 <!-- ![An illustration showing a space kitty dreaming of exploring new worlds with AsciiPress](https://raw.githubusercontent.com/AsciiPresshq/.github/master/profile/static/AsciiPress-github-banner.png)
